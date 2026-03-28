@@ -2,9 +2,8 @@
 quick way to setup new projects
 
 ## get started
-clone the repo with `git clone github.com/nikoloc/c-starter.git`
-rename the project `mv c-starter some-cool-project-name`
-cd into it `cd some-cool-project-name`
+clone the repo with `git clone github.com/nikoloc/c-starter.git my-cool-project-name`
+cd into it `cd my-cool-project-name`
 remove the git repository `rm -rf .git`
 
 ## building
