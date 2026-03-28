@@ -19,11 +19,11 @@ ctx.add_include(
     ]
 )
 
-ctx.add_dependency(
-    [
-        # list of dependencies
-    ]
-)
+# ctx.add_dependency(
+#     [
+#         list of dependencies
+#     ]
+# )
 
 ctx.add_source(["src/" + f for f in os.listdir("src") if f.endswith(".c")])
 
